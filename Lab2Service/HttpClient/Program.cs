@@ -8,6 +8,9 @@ using HttpClient.MathServiceRef;
 
 namespace HttpClient
 {
+    /// <summary>
+    /// HttpClient has two Service References: "SchoolServiceRef" and "MathServiceRef", which are colocated in the Lab2Service project
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
