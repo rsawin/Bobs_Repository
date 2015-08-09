@@ -26,7 +26,7 @@ namespace HttpClient
 
             var students = proxy.GetStudents();
 
-            //Write the student information to the console
+            //Write all student record information to the console
             foreach (Student s in students)
             {
                 Console.WriteLine(s);
