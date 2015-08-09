@@ -1,0 +1,6 @@
+C:\Users\Robert\Documents\My_Projects\Course_Work\Distributed_Prgm\Week 2\Assignments\Lab02\Lab2Service - Start\Lab2Service\HttpClient\bin\Debug\HttpClient.exe.config
+C:\Users\Robert\Documents\My_Projects\Course_Work\Distributed_Prgm\Week 2\Assignments\Lab02\Lab2Service - Start\Lab2Service\HttpClient\bin\Debug\HttpClient.exe
+C:\Users\Robert\Documents\My_Projects\Course_Work\Distributed_Prgm\Week 2\Assignments\Lab02\Lab2Service - Start\Lab2Service\HttpClient\bin\Debug\HttpClient.pdb
+C:\Users\Robert\Documents\My_Projects\Course_Work\Distributed_Prgm\Week 2\Assignments\Lab02\Lab2Service - Start\Lab2Service\HttpClient\obj\Debug\HttpClient.exe
+C:\Users\Robert\Documents\My_Projects\Course_Work\Distributed_Prgm\Week 2\Assignments\Lab02\Lab2Service - Start\Lab2Service\HttpClient\obj\Debug\HttpClient.pdb
+C:\Users\Robert\Documents\My_Projects\Course_Work\Distributed_Prgm\Week 2\Assignments\Lab02\Lab2Service - Start\Lab2Service\HttpClient\obj\Debug\HttpClient.csprojResolveAssemblyReference.cache
